@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Moukuh
-- 👀 I’m interested in Data Science related work
-- 🌱 I’m currently learning Computational Data Science as an Data Scientist Trainee
+- 👋 Hi, I’m Manash
+- 👀 I’m a Data Science Practitioner
+- 🌱 I’m currently learning Computational Data Science as Data Scientist Trainee
 - 💞️ I’m looking to collaborate on Data Science related opensource project
 - 📫 Reach me out though manashpdphukan@gmail.com
 
