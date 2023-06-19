@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manash
 - 👀 I’m a Data Science Practitioner
-- 🌱 I’m currently learning Computational Data Science as Data Scientist Trainee
+- 🌱 I have completed PGP on Computational Data Science from Insofe and Case Western Reverse University
 - 💞️ I’m looking to collaborate on Data Science related opensource project
 - 📫 Reach me out though manashpdphukan@gmail.com
 
